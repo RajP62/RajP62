@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Paul</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on MERN comfortable with learning and implementing new things.
+- 🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.
 - 🌱 I’m currently going more deep into Mern Stack and speacially backend.
 - 👯 I’m looking to collaborate on real products working for an organisation.
 - 💬 Ask me about MERN Stack || Backend || Javascript
