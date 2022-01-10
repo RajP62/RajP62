@@ -6,14 +6,19 @@
 - 🌱 I’m currently going more deep into Mern Stack and speacially backend.
 - 👯 I’m looking to collaborate on real products while working for an organisation.
 - 💬 Ask me about MERN Stack, Backend, or Javascript i would love to help.
-- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/">LinkedIn</a> or can put a <a href="mailto:Rp0399451@gmail.com">mail</a>.
+- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/">LinkedIn</a> or can put a <a href="mailto:Rp0399451@gmail.com">mail</a>
 <br>
 
-Here is the link of my personal portfolio https://rajp62.github.io/Portfolio/
+Here is the link of my personal portfolio https://rajp62.github.io/Portfolio/.
 
 <h3 align="left">Connect with me </h3>
-<p align="left"><a style="margin-right: 30px" href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="bash" width="31" height="35"/> </a>
-  <a href="mailto:Rp0399451@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="bash" width="31" height="31"/> </a></p>
+<p align="left"><a href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="bash" width="31"/> </a>
+  <a href="mailto:Rp0399451@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="bash" width="31"/> </a>
+  </a>
+  <a href="https://twitter.com/RajeshP40409463" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="bash" width="31" height="31"/> </a>
+  </p>
+
+  </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
