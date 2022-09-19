@@ -9,8 +9,6 @@
 - 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/">LinkedIn</a> or can put a <a href="mailto:Rp0399451@gmail.com">mail</a>
 <br>
 
-Here is the link of my personal portfolio https://rajesh-paul.vercel.app/.
-
 <h3 align="left">Connect with me </h3>
 <p align="left"><a href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" alt="bash" width="31"/> </a>
   <a href="mailto:Rp0399451@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="bash" width="31"/> </a>
