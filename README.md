@@ -2,7 +2,7 @@
 <h3 align="center">Professionally MERN stack developer & an upcoming Programmer</h3>
 
 <h3>About me</h1>
-- 🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.<br>
+- 🔭 I’m currently working on MERN Stack, very much comfortable with learning and implementing new things.<br>
 - 🌱 I’m currently going more deep into Mern Stack and specially backend.<br>
 - 👯 I’m looking to collaborate on real products while working for an organisation so feel free to contact me anytime for that i would be more than happy<br>
 - 💬 Ask me about React, Nodejs, Mongodb Backend, or Javascript or anything related to MERN, i would love to help.<br>
