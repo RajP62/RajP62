@@ -3,9 +3,9 @@
 
 <h3>About me</h1>
 - 🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.<br>
-- 🌱 I’m currently going more deep into Mern Stack and speacially backend.<br>
-- 👯 I’m looking to collaborate on real products while working for an organisation.<br>
-- 💬 Ask me about MERN Stack, Backend, or Javascript i would love to help.<br>
+- 🌱 I’m currently going more deep into Mern Stack and specially backend.<br>
+- 👯 I’m looking to collaborate on real products while working for an organisation so feel free to contact me anytime for that i would be more than happy<br>
+- 💬 Ask me about React, Nodejs, Mongodb Backend, or Javascript or anything related to MERN, i would love to help.<br>
 - 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/rajesh-paul-584a4b1b0/">LinkedIn</a> or can put a <a href="mailto:Rp0399451@gmail.com">mail</a>
 <br>
 
