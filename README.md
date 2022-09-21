@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Paul</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">Professionally MERN stack developer & an upcoming SDE</h3>
 
 <h3>About me</h1>
 - 🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.<br>
